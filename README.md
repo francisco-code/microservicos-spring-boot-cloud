@@ -1,13 +1,16 @@
 # microservicos-spring-boot-cloud
 Microserviçõs utilizando spring boot e spring cloud para cadastro de trabalhadores, usuários e de pagamentos com autenticação.
 
+# UML do projeto:
+https://github.com/francisco-code/assets/blob/master/uml_human_resources.PNG
+
 # Collection e environment completos para importar no Postman
 
 Dica: botão direito -> Salvar link como
 
-[Postman collection](https://raw.githubusercontent.com/acenelio/ms-course/main/MS_Course_postman_collection.json)
+[Postman collection](https://github.com/francisco-code/microservicos-spring-boot-cloud/blob/main/postman_collection.json)
 
-[Postman environment](https://raw.githubusercontent.com/acenelio/ms-course/main/MS_Course_env_postman_environment.json)
+[Postman environment](https://github.com/francisco-code/microservicos-spring-boot-cloud/blob/main/env_postman_environment.json)
 
 
 # Fase 1: Comunicação simples, Feign, Ribbon
