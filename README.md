@@ -2,7 +2,7 @@
 Microserviçõs utilizando spring boot e spring cloud para cadastro de trabalhadores, usuários e de pagamentos com autenticação.
 
 # UML do projeto:
-https://github.com/francisco-code/assets/blob/master/uml_human_resources.PNG
+![Web 1] (https://github.com/francisco-code/assets/blob/master/uml_human_resources.PNG)
 
 # Collection e environment completos para importar no Postman
 
