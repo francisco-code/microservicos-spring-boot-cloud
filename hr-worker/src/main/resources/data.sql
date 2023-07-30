@@ -1,0 +1,13 @@
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Bob', 200.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Maria', 300.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Alex', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Gil', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Carol', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Edu', 10000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Lucas', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Van', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Tiago', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Rolney', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Nat', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Ju', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Robson', 250.0);
