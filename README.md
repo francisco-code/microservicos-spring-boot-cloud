@@ -20,6 +20,16 @@ Script SQL
 INSERT INTO tb_worker (name, daily_Income) VALUES ('Bob', 200.0);
 INSERT INTO tb_worker (name, daily_Income) VALUES ('Maria', 300.0);
 INSERT INTO tb_worker (name, daily_Income) VALUES ('Alex', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Gil', 250.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Carol', 20050.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Edu', 10000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Lucas', 35000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Van', 60000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Tiago', 90000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Rolney', 250000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Nat', 300000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Ju', 120000.0);
+INSERT INTO tb_worker (name, daily_Income) VALUES ('Robson', 435000.0);
 ```
 
 application.properties
